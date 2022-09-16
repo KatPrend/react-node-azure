@@ -16,6 +16,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>{!data ? "Loading..." : data}</p>
+        <p>I have made an update to the website!!</p>
       </header>
     </div>
   );
